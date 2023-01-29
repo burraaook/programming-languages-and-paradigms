@@ -1,0 +1,6 @@
+[submodule "homework_03/gpp-interpreter"]
+	path = homework_03/gpp-interpreter
+	url = https://github.com/burraaook/gpp-interpreter.git
+[submodule "gpp-interpreter"]
+	path = gpp-interpreter
+	url = https://github.com/burraaook/gpp-interpreter.git
