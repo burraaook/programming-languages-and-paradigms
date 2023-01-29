@@ -1,0 +1,15 @@
+;; This is test code
+
+(deffun (token num)
+
+    (** num 5f4)
+    (and ((equal token "name surname")))
+    (set a_b (append (token name))
+;; comment here
+    (/ x_z 15f3)
+    (not true)
+    (for (+ x -3))
+    
+    (list a_b token name)
+) (if (load num) true false)
+(if (not "xyzg") nil)

@@ -1,0 +1,17 @@
+;; helloworld.g++
+(deffun sumup (x)
+	
+	(if(equal x 0)
+		1
+		(+ x(sumup(- x 1)))
+	)
+)
+
+(list 1 2 123f12)
+(load -1 "abc")
+(disp (n) m)
+(for x 4)
+(concat "name" str_val)
+(/ 5 3f2 7f6 8f4 3 a 5 n)
+a_B_cxyz
+km5_34fe
