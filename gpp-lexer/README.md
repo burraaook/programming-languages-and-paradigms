@@ -1,5 +1,4 @@
 ## PART 1 - FLEX  
--------------------
 ### Compilation
 ```
 flex -o gpp_lexer.c gpp_lexer.l  
@@ -13,7 +12,6 @@ gcc gpp_lexer.c -o gpp_lexer
 - Program terminates if exit keyword is entered.
 
 ## PART 2 - LISP  
--------------------
 ### Compilation  
 ```clisp gpp_lexer.lisp```  
 
