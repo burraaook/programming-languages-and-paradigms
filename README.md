@@ -1,5 +1,5 @@
 # Programming Languages and Paradigms
-University assignments of Programming Languages course which is about syntactic and semantic analysis, names and scopes, data types, arithmetic operations, control structures, subroutines, abstraction and encapsulation, object oriented programming, functional programming, and declarative programming.  
+University assignments of Programming Languages course which are about syntactic and semantic analysis, names and scopes, data types, arithmetic operations, control structures, subroutines, abstraction and encapsulation, object oriented programming, functional programming, and declarative programming.  
   
   
 | Assignment | Description | Language |
